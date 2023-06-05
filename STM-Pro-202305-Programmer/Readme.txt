@@ -1,5 +1,5 @@
 STM32F407 Programer for the STMPRO ECU.
-firmware.bin file is Firmware 202207.
+firmware.bin file is Firmware 202305.
 
 Only available for windows OS currently.
 Zadig-2.5.exe needs to be installed first
